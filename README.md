@@ -3,7 +3,6 @@
 🚀 **Honors Computing Science Sophomore @ University of Alberta**  
 🎯 Passionate about **software development, machine learning**, and building innovative solutions  
 📚 Currently exploring **Full-Stack Web Development** with JavaScript, HTML/CSS, Java
-
 📌 Always looking for internships, co-ops, or research opportunities to grow and contribute!
 
 ---
