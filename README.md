@@ -53,10 +53,7 @@ Linux/UNIX, Windows
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadsalaar/)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:msbutt112004@gmail.com)  
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost)](https://devpost.com/msbutt1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/msbutt1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadsalaar/)  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:msbutt112004@gmail.com)  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost)](https://devpost.com/msbutt1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/msbutt1/)
 
 ---
 
