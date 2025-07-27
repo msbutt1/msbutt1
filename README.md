@@ -10,10 +10,10 @@
 ## 🛠️ Technologies & Tools
 
 **Languages:**  
-Python, C, C++, R, HTML/CSS, JavaScript (Learning)
+Python, C, C++, R, HTML/CSS, Java (Android Development), JavaScript (Learning)
 
 **Developer Tools:**  
-VS Code, Git, Jupyter Notebook, Google Colab, Wing 101, Docker, PyTest
+VS Code, Git, Jupyter Notebook, Google Colab, Wing 101, Docker, PyTest, Android Studio
 
 **Libraries & Frameworks:**  
 NumPy, Matplotlib, SDL2, shutil
@@ -48,6 +48,7 @@ Linux/UNIX, Windows
 ## 📚 Currently Learning
 
 - Full-Stack Web Development (JavaScript, HTML, CSS)
+- Android App Development (Java, Android Studio)
 
 ---
 
