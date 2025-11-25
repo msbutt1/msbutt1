@@ -1,4 +1,4 @@
-# Hey there! I'm Salaar 👋
+# Hey there! I'm Salaar 
 
 🚀 **Honors Computing Science Sophomore @ University of Alberta**  
 🎯 Passionate about **software development, machine learning**, and building innovative solutions  
