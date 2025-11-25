@@ -10,7 +10,7 @@
 ## 🛠️ Technologies & Tools
 
 **Languages:**  
-Python, C, C++, R, HTML/CSS, Java (Android Development), JavaScript (Learning)
+Python, C, C++, R, HTML/CSS, Java (Android Development), JavaScript (Learning), TypeScript
 
 **Developer Tools:**  
 VS Code, Git, Jupyter Notebook, Google Colab, Wing 101, Docker, PyTest, Android Studio
