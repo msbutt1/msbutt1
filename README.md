@@ -1,68 +1,62 @@
-# Hey there! I'm Salaar 
+# Muhammad Salaar Butt
 
-🚀 **Honors Computing Science Junior @ University of Alberta**  
-🎯 Passionate about **software development, machine learning**, and building innovative solutions  
-📚 Currently exploring **Full-Stack Web Development** with JavaScript, HTML/CSS, Java
-📌 Always looking for internships, co-ops, or research opportunities to grow and contribute!
+I'm an Honors Computing Science student at the University of Alberta, deeply interested in systems-driven software engineering, machine learning infrastructure, and developer tooling. I build projects that simulate real-world production challenges—where correctness, observability, and simplicity matter.
+
+I’m actively looking for engineering internships and research opportunities where I can contribute to impactful products and learn from principled engineers.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technical Skills
 
 **Languages:**  
-Python, C, C++, R, HTML/CSS, Java (Android Development), JavaScript (Learning), TypeScript
+Python, Java, C/C++, JavaScript, TypeScript, SQL, MongoDB, Bash, R  
+
+**Frameworks:**  
+PyTorch, TensorFlow, Node.js, React Native, Streamlit, LangChain  
 
 **Developer Tools:**  
-VS Code, Git, Jupyter Notebook, Google Colab, Wing 101, Docker, PyTest, Android Studio
+Git, Docker, Firebase, AWS, GCP (Vertex AI, Translation API), PyTest  
 
-**Libraries & Frameworks:**  
-NumPy, Matplotlib, SDL2, shutil
+**Libraries:**  
+pandas, NumPy, FAISS, Matplotlib, SDL2, shutil  
 
-**Operating Systems:**  
+**Environments:**  
 Linux/UNIX, Windows
 
 ---
 
-## 🔧 Notable Projects
+## Selected Projects
 
-**📌 Task Planning & Management Web App**  
-*Full Stack - HTML/CSS + EJS + MongoDB Atlas*  
-- Developed a responsive UI using HTML/CSS  
-- Integrated Embedded JavaScript for dynamic rendering  
-- Enabled account authentication and real-time task storage with MongoDB
+### **ShopRec**  
+*Python, FastAPI, scikit-learn, Docker, pytest*  
+A production-style recommendation API that serves real-time product suggestions using implicit purchase signals. Supports collaborative filtering and hybrid (CF + embedding) inference with a typed, test-covered backend and Dockerized deployment.
 
-**📌 CHIP-8 Emulator (Ongoing)**  
-*C, SDL2*  
-- Developing an emulator capable of executing CHIP-8 machine code  
-- Simulating CPU instructions, memory, and I/O on modern hardware  
-- Building a graphical interface for real-time execution
+### **Multilingual RAG Chatbot**  
+*Python, LangChain, Vertex AI, Google Translate, FAISS*  
+An end-to-end multilingual customer support chatbot for 100+ languages using translation → retrieval → generation → re-translation. Includes a robust vector DB setup, language detection, and automated test harnesses for reliability.
 
-**📌 Automated Desktop Cleaner (Ongoing)**  
-*Python, shutil, OS*  
-- Script that auto-organizes desktop files by file type  
-- Runs periodically/on demand to reduce clutter  
-- Cross-platform support using OS operations
+### **EventEase**  
+*Android, Firebase, Java, Node.js*  
+A mobile-first event management platform with lottery-based waitlist handling, contextual notifications, and QR-based check-in. Used Firebase Cloud Functions to automate selection logic and reduce organizer overhead.
+
+### **Plantagotchi**  
+*React Native, TypeScript, WebSockets*  
+A real-time mobile experience that animates a plant avatar using live biosensor data. Built during natHacks; integrated PL@NT.net ML API for species detection and emotional state rendering.
 
 ---
 
-## 📚 Currently Learning
+## Currently Exploring
 
-- Full-Stack Web Development (JavaScript, HTML, CSS)
-- Android App Development (Java, Android Studio)
-
----
-
-## 🌐 Connect with Me
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadsalaar/)  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:msbutt112004@gmail.com)  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost)](https://devpost.com/msbutt1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/msbutt1/)
+- Distributed ML tooling and embedding stores  
+- Scalable APIs with observability and graceful fallbacks  
+- Practical applications of AI-assisted development workflows
 
 ---
 
-## 💡 Fun Fact
+## Links
 
-When I'm not coding or debugging, I enjoy **tinkering with computers** and exploring how software interacts with hardware. Always curious, always building!
-
----
-
-
-
+- [Resume (PDF)](https://github.com/msbutt1/msbutt1/blob/main/Muhammad-Salaar-Butt-Resume.pdf)  
+- [LinkedIn](https://linkedin.com/in/muhammadsalaar)  
+- [Devpost](https://devpost.com/msbutt1)  
+- [LeetCode](https://leetcode.com/u/msbutt1/)  
+- [Email](mailto:msbutt112004@gmail.com)
