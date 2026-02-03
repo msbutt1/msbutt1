@@ -56,7 +56,7 @@ A real-time mobile experience that animates a plant avatar using live biosensor 
 ## Links
 
 - [Resume (PDF)](https://github.com/user-attachments/files/24461143/Muhammad-Salaar-Butt-Resume.pdf)
-- [Transcript (PDF)]([Transcript.pdf](https://github.com/user-attachments/files/25054539/Transcript.pdf))
+- [Transcript (PDF)](https://github.com/user-attachments/files/25054539/Transcript.pdf)
 - [LinkedIn](https://linkedin.com/in/muhammadsalaar)  
 - [Devpost](https://devpost.com/msbutt1)  
 - [LeetCode](https://leetcode.com/u/msbutt1/)  
